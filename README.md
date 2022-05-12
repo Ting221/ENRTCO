@@ -5,6 +5,3 @@ The source code is provided "as is" without warranty of any kind, and its author
   
 This function is the main code for portfolio optimization in a non-zero transaction cost environment based on the linearized augmented Lagrangian method. Based on some empirical financial principles and optimization strategies, it uses elastic-net regularization terms to consider the correlation between transaction costs and variables, thereby maximizing the cumulative wealth in the entire investment while reducing transaction costs.
 
-For the usage of this function, you can refer to the following papers:
-[1] B. Li, J. Wang, D. Huang, and S. C. H. Hoi, "Transaction cost optimization for online portfolio selection," Quantitative Finance, pp.1–14, 2017.
-[2] Zhao-Rong Lai, Pei-Yi Yang, Liangda Fang and Xiaotian Wu. "Short-term Sparse Portfolio Optimization based on Alternating Direction Method of Multipliers", Journal of Machine Learning Research, 2018.
